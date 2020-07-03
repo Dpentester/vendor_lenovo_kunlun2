@@ -1,1 +1,1 @@
-# vendor_lenovo_kunlun2
+#Giasen's vendor_lenovo_kunlun2
